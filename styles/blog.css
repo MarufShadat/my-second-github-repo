@@ -1,0 +1,9 @@
+.my-box {
+  margin: 20px;       /* average margin around the box */
+  height: 200px;      /* average height */
+  width: 300px;       /* average width */
+  background-color: #610a0a;  /* light gray background for visibility */
+  border: 1px solid #410288;    /* subtle border */
+  padding: 10px;      /* inner spacing */
+  box-sizing: border-box;    /* include padding and border in width & height */
+}
